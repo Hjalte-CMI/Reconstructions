@@ -9,6 +9,7 @@ Guide
    :maxdepth: 5
    
    Batch Reconstruction
+   Weekly QC
    license
    
    
