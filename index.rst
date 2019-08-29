@@ -1,13 +1,14 @@
 
-Wizard Batch Reconstruction - PET/CT
-==================================== 
+CMI Knowledge
+============= 
 
 Guide
 ^^^^^ 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 5
    
+   Batch Reconstruction
    license
    
    
