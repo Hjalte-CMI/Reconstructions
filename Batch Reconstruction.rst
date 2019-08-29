@@ -5,8 +5,14 @@ lidt køligere idag
 
 Checklist
 ^^^^^^^^^^^
+*RAWDATA:
+    *Both cat.file and lst.file in the same folder.
+    *No duplicates of the same file.
+*IMAGEDATA
+    *Only one transformation matrix.
+    *Text-file with names on all folders in RAWDATA which need to be reconstructed.
 
-husk alle de vigtige ting i livet.
+
 
 Technical Description
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -14,6 +20,7 @@ Here you can find a more detailed description of the individual scripts which re
 
 submitCTRecon
 --------------
+
 
 SubmitPETHisto
 --------------
