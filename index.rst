@@ -3,7 +3,8 @@ CMI Knowledge
 
 .. toctree::
    :maxdepth: 5
-   :hidden:
+   :caption: Help me, Help you
+   
    Batch Reconstruction
    Weekly QC
    license
