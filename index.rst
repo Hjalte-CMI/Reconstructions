@@ -1,3 +1,6 @@
+CMI Knowledge
+=============
+
 .. toctree::
    :maxdepth: 5
    :hidden:
