@@ -8,9 +8,13 @@ Guide
 .. toctree::
    :maxdepth: 5
    :hidden:
-   :caption: Users
+   :caption: Help me, help yourself
    
    Batch Reconstruction
+   
+   :hidden:
+   :caption: Technical stuff
+   
    Weekly QC
    license
    
