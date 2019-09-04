@@ -114,4 +114,23 @@ Wellcounter
 
 .. Image:: Images/Wellcounter.png
 
+The racks and Iodine 129 needed to run the calibration is below the Wellcounter itself.
+
+1. Place the background- and stop-rack in the Wellcounter and press the run button on the monitor. This will take 5 minutes.
+
+2. Put on gloves, and place the Iodine 129 into the test-rack and into the Wellcounter with a stop-rack next to it. Press run again.
+
+3. Remember to replace the STOP-, Background and test-rack along with the Iodine 129 back into the metal incasing.
+
+4. When the calibration is finished, insert the harddrive into the Wellcounter.
+
+5. Click “Exit” on the monitor followed by “Close the Software”.
+
+6. The Wellcounterdata folder is in the C drive.
+
+7. Copy the entire folder onto the harddrive and remove the harddrive.
+
+8. Insert the harddrive in the laptop out in the scanning room and copy the folder to /N:/LABDATA/CMI-DATA/WellCounter_Data_Current/Backup_Wellcounter/WellcounterData.
+
+9. Remember to replace the harddrive after transfer.
 
