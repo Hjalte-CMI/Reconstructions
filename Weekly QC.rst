@@ -7,6 +7,9 @@ PET/CT
 PET
 ----
 .. Image:: Images/PETCT_PET.png
+  :width: 10
+  
+  
 
 1.	 MM emb -> Shutdown (embedded pc) -> Turn off scanner on the back of the gantry -> wait 10 sec. -> turn on scanner.
 2.	 Restart  Host computer.
