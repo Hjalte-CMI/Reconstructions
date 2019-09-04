@@ -1,6 +1,6 @@
 .. toctree::
-   :maxdepth: 5
    :caption: Help me, Help you
+   :maxdepth: 3
    
    Batch Reconstruction
    

@@ -1,9 +1,9 @@
 .. toctree::
-   :maxdepth: 5
    :caption: Technical stuff
+   :maxdepth: 3
    
    Technical Batch Reconstruction
    Weekly QC
    Positron Range Correction
-   licens
+   license
    
