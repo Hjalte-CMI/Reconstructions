@@ -3,8 +3,9 @@ CMI Knowledge
 
 .. toctree::
    :maxdepth: 5
-   Toctrees/User
-   Toctrees/Tech
+   
+   User
+   Tech
 
 
 
