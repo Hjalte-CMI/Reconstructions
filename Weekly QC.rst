@@ -38,9 +38,9 @@ CT
 
 Mikro-PET
 ^^^^^^^^^^
-..Image:: Images/MikroPET.png
+.. Image:: Images/MikroPET.png
 
-..Image:: Images/MikroPETGO.png
+.. Image:: Images/MikroPETGO.png
 
 1.	 Restart computer.
 2.	 Restart scanner by flipping the switch at the back and waiting 10 sec. before turning it back on.
@@ -88,7 +88,7 @@ Integrated CT Calibration
 
 HU Calibration
 ---------------
-.. Image:: Images/HU_start.png
+.. Image:: Images/HU_Start.png
 
 1.	 Start by changing to the Mouse pallet M. Click on “Pallet Exchange” -> “start” when the pallet is free to move -> “ok” -> choose “MC Mouse M”
 2.	 Refill the fantom with purified water if any air bubbles are present.
@@ -107,7 +107,7 @@ Dosis Calibrator
 
 .. Image:: Images/Dosis.png
 
-.. Image:: Images/Radioaktive.png 
+.. Image:: Images/Radioaktiv.png 
 
 1.	 Put on gloves.
 2.	 Click ”Daily” on the dosis calibrator.
