@@ -39,7 +39,9 @@ CT
 Mikro-PET
 ^^^^^^^^^^
 ..Image:: Images/MikroPET.png
+
 ..Image:: Images/MikroPETGO.png
+
 1.	 Restart computer.
 2.	 Restart scanner by flipping the switch at the back and waiting 10 sec. before turning it back on.
 3.	 Mount Mikroscan Pallet.
@@ -75,7 +77,7 @@ The Run Up usually takes around 26 minutes.
 Integrated CT Calibration
 --------------------------
 
-.. Image:: Integrated_Calibration.png
+.. Image:: Images/Integrated_Calibration.png
 
 1.	 Click on the first icon from the left (Worklist).
 2.	 Click “QC”.
@@ -87,6 +89,7 @@ Integrated CT Calibration
 HU Calibration
 ---------------
 .. Image:: Images/HU_start.png
+
 1.	 Start by changing to the Mouse pallet M. Click on “Pallet Exchange” -> “start” when the pallet is free to move -> “ok” -> choose “MC Mouse M”
 2.	 Refill the fantom with purified water if any air bubbles are present.
 3.	 Tape fantom to the pallet
@@ -96,10 +99,14 @@ HU Calibration
 7.	 Now go to “Hounsfield Quality Check” and adjust the 2 blue boxes so that the vertical axis in the middle aligns with the intersection between the water and air.
 8.	 Now click ”Prepare”, then “Run”
 9.	 When the scan is completed, check the results with table values to ensure the scanner is working correctly.
+
 .. Image:: Images/HU_BlueBox.png
+
 Dosis Calibrator
 ^^^^^^^^^^^^^^^^^
+
 .. Image:: Images/Dosis.png
+
 .. Image:: Images/Radioaktive.png 
 
 1.	 Put on gloves.
