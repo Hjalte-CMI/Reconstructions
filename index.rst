@@ -2,12 +2,16 @@ CMI Knowledge
 =============
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 2
+   :caption: sommer
    
-   User
-   Tech
+   Weekly QC
 
-
+.. toctree:: 
+   :maxdepth: 2
+   :caption: jul
+   
+   License
 
 Indices and tables
 ==================
