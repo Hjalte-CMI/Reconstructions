@@ -13,10 +13,12 @@ Disable “secure boot” in bios, if it is enabled. Cannot install newest drive
 Check for newest supported driver
 
 .. code-block:: python
-$ apt search nvidia-driver
 
-If newest for ex is 430
-$ sudo apt install nvidia-driver-430
+    $ apt search nvidia-driver
+
+If newest for ex is 430::
+
+    $ sudo apt install nvidia-driver-430
 
 Go to https://developer.nvidia.com/cuda-toolkit and follow instructions for installing the newest CUDA toolkit.
 When installing the CUDA toolkit, do not install the graphics driver, but make sure that the driver downloaded previously is newer.
