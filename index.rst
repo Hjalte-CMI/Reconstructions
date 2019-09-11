@@ -11,7 +11,8 @@ CMI Knowledge
    :maxdepth: 2
    :caption: jul
    
-   License
+   license
+   Batch Reconstruction
 
 Indices and tables
 ==================
