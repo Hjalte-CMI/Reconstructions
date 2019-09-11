@@ -13,7 +13,6 @@ Disable “secure boot” in bios, if it is enabled. Cannot install newest drive
 Check for newest supported driver
 
 .. code-block:: python
-
 $ apt search nvidia-driver
 
 If newest for ex is 430
