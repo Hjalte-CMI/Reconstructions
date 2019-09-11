@@ -1,19 +1,26 @@
 CMI Knowledge
 =============
 
-.. toctree::
-   :maxdepth: 2
-   :caption: sommer
-   
-   Weekly QC
+Welcome to Cluster for Molecular Imaging (CMI)!
 
-.. toctree:: 
-   :maxdepth: 2
-   :caption: jul
+Below you can find some interesting, and hopefully helpful, pieces of information whenether you just want to reconstruct pictures or get down and techy yourself!
+ 
+
+.. toctree::
+   :caption: Help me, Help you
+   :maxdepth: 3
    
-   license
    Batch Reconstruction
 
+.. toctree::
+   :caption: Technical stuff
+   :maxdepth: 3
+   
+   Technical Batch Reconstruction
+   Weekly QC
+   Positron Range Correction
+   license
+   
 Indices and tables
 ==================
 
