@@ -10,7 +10,8 @@ Here you can find a more detailed description of the individual scripts, which r
 submitCTRecon
 --------------
 
-'''matlab
+
+```matlab
 
 %% Should take:
 %   Target_folder
@@ -26,7 +27,7 @@ submitCTRecon
 % OUTPUTS:
 % none
 
-'''
+```
 
 
 SubmitPETHisto
