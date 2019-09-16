@@ -12,7 +12,7 @@ submitCTRecon
 
 The function `submitCTRecon.m` creates a txt.file which the IAW can use for reconstruction. The functions works the following way:
 
-```matlab
+.. code-block:: matlab
 
     %% Should take:
     
@@ -36,7 +36,7 @@ The function `submitCTRecon.m` creates a txt.file which the IAW can use for reco
     
     % none
 
-```
+
 
 
 SubmitPETHisto
