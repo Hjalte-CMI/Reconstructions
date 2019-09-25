@@ -53,9 +53,10 @@ Mikro-PET
 9.	 In the Motion Control, click “Center FOV”.
 10.	 Close down MicroPET Manager and open MicroPETSSD.
 11.	 Click Setup system/Diagnostics-> aquire -> Quick scan.
-12.	 After 
+12.	 After
 
 .. Image:: Images/MikroPETResult.png
+
 
 
 SPECT/CT
@@ -107,7 +108,7 @@ Dosis Calibrator
 
 .. Image:: Images/Dosis.png
 
-.. Image:: Images/Radioaktiv.png 
+.. Image:: Images/Radioaktiv.png
 
 1.	 Put on gloves.
 2.	 Click ”Daily” on the dosis calibrator.
@@ -140,4 +141,3 @@ The racks and Iodine 129 needed to run the calibration is below the Wellcounter 
 8. Insert the harddrive in the laptop out in the scanning room and copy the folder to /N:/LABDATA/CMI-DATA/WellCounter_Data_Current/Backup_Wellcounter/WellcounterData.
 
 9. Remember to replace the harddrive after transfer.
-
