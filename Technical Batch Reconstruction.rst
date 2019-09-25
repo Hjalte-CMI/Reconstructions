@@ -70,10 +70,34 @@ The dynamic sinogram will take much longer to reconstruct than a static image.
 SubmitPETRecon
 ---------------
 
+SubmitPETRecon is the final function of the reconstruction. It creates a text file, with which the IAW can make a reconstructed PET image.
 
+:: 
+
+    % INPUTS
+    %   user:           The scientist name as written in the folder name on the LABDATA drive, eg. 'Simon'.
+    %   study:          The study name corresponding to the folder name in which the scans lie
+    %   scan:           The folder name of the indiviual scan
+    %   scan_type:      Can be GAT (gated) or UNG (ungated) 
+    %   frames:         Either a vector for one image or amount of bins for "GAT", e.g.
+    %                    '8B' for eight bins
+    %   use_atten:      Choose whether attenuation map should be used (0 or 1)
+    %   make_scatter:   Whether scatter correction should be used (0 or 1)
+    %   resolution:     Number of pixels in the x and y directions, eg. 128
+
+This function, just like the others, don't have an output but will save the file in a folder on the N-drive   
+
+::
+
+    % Output
+    
+    % Generate a file in the folder 'N:\LABDATA\CMI-DATA\Cardiac_imaging\microQ\submitted\'
+    
 
 
 
 Co-registration
 ----------------
 
+This feature is currently not working, but the idea is that the script will generate the TMx by itself, instead of the current solution where it is
+generated scan by scan.
