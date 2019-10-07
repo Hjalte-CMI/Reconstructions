@@ -1,14 +1,18 @@
 Weekly QC
 =========
 
-PET/CT
+Inveon PET/CT
 ^^^^^^
 
 PET
 ----
 .. Image:: Images/PETCT_PET.png
 
-1.	 MM emb -> Shutdown (embedded pc) -> Turn off scanner on the back of the gantry -> wait 10 sec. -> turn on scanner.
+1.	 Restart scanner computer
+  1) On the desktop, connect to scanner PC by double-clicking "MM emb" ->
+  2) Double-click "Shutdown" on the desktop of the embedded pc
+  3) Turn off scanner on the back of the gantry
+  4) wait 10 seconds and turn back on.
 2.	 Restart  Host computer.
 3.	 Mount 38 mm Pallet.
 4.	 Put in position 2.
