@@ -60,7 +60,7 @@ Ensure that CMAKE and git are installed, can be checked with:
 else install with:
 
 .. code-block:: python
-    
+
     $ sudo apt install cmake
     $ sudo apt install git
 
@@ -103,7 +103,7 @@ Install the following packages:
 Install jupyter:
 
 .. code-block:: python
-    
+
     $ conda install -c anaconda jupyter
 
 Ongoing progress with integration of NiftyPET

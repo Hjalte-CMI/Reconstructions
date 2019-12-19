@@ -22,8 +22,3 @@ To-Do List
     + Hjalte will email you back with a text dokument of all the subfolders in the folder you specified.
         + Look through the list, and delete all the files you don't need reconstructed - email it back.
         + the reconstructions will now begin.
-
-
-
-
-
